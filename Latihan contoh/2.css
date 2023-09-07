@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+hr{
+    width: 850px;
+    margin-left: 15px;
+}
+.container{
+    border: 2px solid #000;
+    width: 150vh;
+    height: auto;
+    margin: 50px auto;
+}
+.header{
+    margin: 10px 0 5px 10px;
+    color: crimson;
+}
+.isi h3{
+    margin-left: 10px;
+    margin-top: 20px;
+    color: rgb(194, 132, 45);
+    font-size: 25px;
+}
+.isi p{
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: justify;
+}
+.contact h1{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: rgb(0, 42, 255);
+}
+.about ul{
+    margin: 20px 20px 20px 20px;
+}
+.about ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+}
+.about ul li a:hover{
+    color: rgb(0, 13, 255);
+}
